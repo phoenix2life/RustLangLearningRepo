@@ -1,2 +1,3 @@
 # RustLangLearningRepo
-Making new mistakes to learn rust programming. 
+Do new mistakes to learn rust programming. 
+Repeat no previous mistakes. 
